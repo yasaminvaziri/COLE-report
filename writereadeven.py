@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+#we have 100 transaction in each block (based on COLE paper)
 
 tx_in_block = 100
 data = {
