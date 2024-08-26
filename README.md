@@ -18,3 +18,7 @@ Here is a summery of my work during my summer internship at Chinese University o
 8th week: 
   Writing the demo and final report and comparing the results with COLE paper.
     -Cole demo report and Cole final report.
+
+
+
+There is also a pdf explaining about the relation of different parameters for analyzing the plots.
