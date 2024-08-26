@@ -22,3 +22,5 @@ Here is a summery of my work during my summer internship at Chinese University o
 
 
 There is also a pdf explaining about the relation of different parameters for analyzing the plots.
+
+Test and run experiments are in a .py file, these files are my experiments for each workload based on the COLE setup.
