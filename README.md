@@ -1,4 +1,4 @@
-Here is a summery of my work dusing my summer internship at Chinese University of Hong Kong
+Here is a summery of my work during my summer internship at Chinese University of Hong Kong
 
 1st and 2nd week: 
   Writing report of Block LSM, Chain KV and COLE paper. 
